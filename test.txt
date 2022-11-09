@@ -1,1 +1,2 @@
 front end branchinde değişiklik yaptık
+front end branchinde ikinci satır değişti, eklendi
